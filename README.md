@@ -13,6 +13,7 @@ Composer project for testing Acquia Lift of top of Lightning.
 ## Result
 
 This project will:
+
 1. Install Lightning
 2. Enable the Content Hub and Lift modules
 3. Enable a feature that provides a "Personalization" content type and basic
