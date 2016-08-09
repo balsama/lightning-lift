@@ -1,0 +1,15 @@
+name: 'CH Node Bundle + Config'
+description: 'Basic Content Hub configuration and associated Node Bundle.'
+type: module
+core: 8.x
+dependencies:
+  - field
+  - image
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+  - workbench_moderation
+version: 8.0.0
+package: 'Lift + Lightning'

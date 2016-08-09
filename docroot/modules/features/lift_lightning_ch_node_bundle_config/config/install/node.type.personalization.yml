@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Personalization
+type: personalization
+description: 'Create content here that needs to be pushed to Lift 3'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: false

@@ -1,0 +1,63 @@
+entities:
+  file:
+    file:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering: {  }
+  media:
+    document:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        embedded: embedded
+    image:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        embedded: embedded
+    instagram:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        embedded: embedded
+    tweet:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        embedded: embedded
+    video:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        embedded: embedded
+  node:
+    landing_page:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        full: full
+    page:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering:
+        teaser: teaser
+    personalization:
+      enable_index: 1
+      enable_viewmodes: 1
+      rendering:
+        teaser: teaser
+  scheduled_update:
+    multiple_node_embargo:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering: {  }
+    node_embargo:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering: {  }
+  taxonomy_term:
+    taxonomy_term:
+      enable_index: 0
+      enable_viewmodes: 0
+      rendering: {  }
+user_role: anonymous
